@@ -36,8 +36,7 @@ padding-bottom: 5px;
 cursor: pointer;
 display: flex;
 align-items: center;
-width: 150px;
-height: 80px;
+
 `;
 
 export const DashIcon = styled.div`

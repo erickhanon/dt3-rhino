@@ -48,6 +48,7 @@ font-size: 80px;
 text-align: center;
 font-family: 'Poppins', sans-serif;
 font-weight: 900;
+letter-spacing: 5px;
 
 @media screen and (max-width: 768px){
     font-size: 40px;
